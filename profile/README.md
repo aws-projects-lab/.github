@@ -98,20 +98,7 @@ Segurança e permissões em data lakes.
 
 Alguns repositórios têm acesso aberto via fork. Outros são colaborativos para entrar, abra uma issue com o título `[Participação] Seu nome` no repositório desejado e apresente-se brevemente.
 
-🚨 ## Se você for homem - PAGO 🚨
-
-Se você for homem e quer participar de um projeto.
-🚨Valor:  R$ 200,00 CADA pessoa
-
-- 5 semanas de acompanhamento.
-
-- 5 dias de reunião.
-
-- 2 horas cada reunião.
-
-- Foco em AWS e Git.
-
-- Cada projeto: até 3 pessoas.
+## Se você for homem - homens não são permitidos.
 
 💜 Me chame no linkedin [Regilene Mariano](https://www.linkedin.com/in/regilene-mariano-a973722a4/)
 
